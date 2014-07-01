@@ -1,4 +1,4 @@
-andreas
+Andreas Markussen
 =======
 
-MDK - Andreas
+Dette er min hjemmeside, baseret på et GitHub projekt.
